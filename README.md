@@ -55,6 +55,6 @@ A Unity package filled with 54 handshapes used in VR-ASL.
 - X
 - Y
 
-***All animations edited with Pandaabear's Base (https://pandaabear.gumroad.com/l/pAxQR?layout=profile)
+***All animations edited with Pandaabear's Base (https://pandaabear.gumroad.com/l/pAxQR?layout=profile)***
 
 Special thanks to Gorialis and SaikoArt_Finn for some animations.
