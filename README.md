@@ -1,4 +1,5 @@
 # VRChat ASL Handshapes
+[![Github All Releases](https://img.shields.io/github/downloads/StellrVR/vrchat-asl-handshapes/total.svg)](https://github.com/StellrVR/vrchat-asl-handshapes/releases/latest)
 A Unity package filled with 54 handshapes used in VR-ASL.
 
 **Handshapes Included:**
